@@ -2,6 +2,6 @@ name: music-replacer
 displayName: Music Replacer
 author: Farmer Thanos
 description: Replaces all music with some of my remixes.
-version: 0.1
+version: 0.2
 minGameVersion: 126.1
 hidden: true
